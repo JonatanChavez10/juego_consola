@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1720787427 source:c:\users\jonic\desktop\facu 2024\programacion1\trabajo_practico_integrador\funciones.cpp
+	<iostream>
+	<iomanip>
+	"Funciones.h"
+	"rlutil.h"
+
+1720666212 c:\users\jonic\desktop\facu 2024\programacion1\trabajo_practico_integrador\funciones.h
+
+1718374666 c:\users\jonic\desktop\facu 2024\programacion1\trabajo_practico_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720667596 source:c:\users\jonic\desktop\facu 2024\programacion1\trabajo_practico_integrador\main.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+	<ctime>
+	<cstring>
+	<cstdlib>
+
+1720787427 source:d:\facu 2024\programacion1\trabajo_practico_integrador\funciones.cpp
+	<iostream>
+	<iomanip>
+	"Funciones.h"
+	"rlutil.h"
+
+1720666212 d:\facu 2024\programacion1\trabajo_practico_integrador\funciones.h
+
+1718374666 d:\facu 2024\programacion1\trabajo_practico_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720667596 source:d:\facu 2024\programacion1\trabajo_practico_integrador\main.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+	<ctime>
+	<cstring>
+	<cstdlib>
+
